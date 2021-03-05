@@ -59,7 +59,6 @@ export default class Body extends Component {
       .request(options)
       .then((res) => {
         const response = res.data;
-        console.log(response);
         this.setState(
           {
             temp: `${response.main.temp} ºC`,
@@ -68,9 +67,6 @@ export default class Body extends Component {
             humidity: `${response.main.humidity} %`,
             feels_like: `${response.main.feels_like} ºC`,
             wind: `aprox ${Math.round(response.wind.speed * 3.6)} Km/h`,
-          },
-          function () {
-            console.log(this.state);
           }
         );
       })
