@@ -8,7 +8,7 @@ Instalar o axios na pasta root
 
 ### `npm install axios`
 
-a Api consumida foi referente ao site https://rapidApi.com, será necessário o registro para conseguir uma API KEY
+A Api consumida foi referente ao site https://rapidApi.com, será necessário o registro para conseguir uma API KEY e posteriormente inserir na pasta components/Api.js
 
 ### `npm start`
 
