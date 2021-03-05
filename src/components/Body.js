@@ -39,7 +39,7 @@ export default class Body extends Component {
     this.setState({ value: e.target.value, submit: true });
   }
 
-  async handleSubmit(e) {
+  handleSubmit(e) {
     e.preventDefault();
 
     const options = {
