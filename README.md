@@ -1,4 +1,4 @@
-# Estudo de consumo de API´s de passando parâmetros dinâmicos na requisição.
+# Estudo de consumo de API´s passando parâmetros dinâmicos na requisição.
 
 Para rodar o projeto :
 
@@ -8,7 +8,7 @@ Instalar o axios na pasta root
 
 ### `npm install axios`
 
-A Api consumida foi referente ao site https://rapidApi.com, será necessário o registro para conseguir uma API KEY e posteriormente inserir na pasta components/Api.js
+A Api consumida foi referente ao site https://rapidApi.com, será necessário o registro para conseguir uma API KEY e posteriormente inserir no arquivo components/Api.js
 
 ### `npm start`
 
