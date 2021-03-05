@@ -1,7 +1,5 @@
 # Estudo de consumo de API´s de passando parâmetros dinâmicos na requisição.
 
-## Available Scripts
-
 Para rodar o projeto :
 
 ### `git clone https://github.com/MayconMarigo/Gerador_clima.git`
