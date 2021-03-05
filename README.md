@@ -18,8 +18,6 @@ Basta inserir as informações do estado e cidade dos quais você deseja fazer a
 
 Este projeto teve como finalidade estudar os seguintes tópicos:
 
-Consumo de Api ( mais precisamente manipular a biblioteca axios )
-Estudo de componentização do ReactJS
-Melhoria no entendimento e utilização de State e setState
+Consumo de Api ( mais precisamente manipular a biblioteca axios ), estudo de componentização do ReactJS, melhoria no entendimento e utilização de State e setState.
 
 Quaisquer comentários estou a disposição :) 
