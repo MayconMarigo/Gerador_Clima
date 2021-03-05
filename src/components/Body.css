@@ -1,0 +1,63 @@
+*{
+  text-align: center;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.selection{
+  margin-top: 3px;
+  background-color: rgba(128, 128, 128, 0.281);
+}
+
+select{
+  margin-top: 5px;
+  border-radius: 5px;
+  outline: 0;
+  padding: 5px;
+  width: 250px;
+  font-size: 15px;
+}
+
+input[type=submit]{
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+  outline: 0;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+input:active{
+  color: white;
+}
+section{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 3px;
+  background-image: linear-gradient(to left, rgba(109, 108, 108, 0.597), rgba(109, 108, 108, 0.397));
+}
+section:nth-child(3){
+  border-radius: 0 0 10px 10px;
+}
+.results{
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.results .wrapper{
+  width: 100%;
+}
+section p{
+  width: 100%;
+  color: rgba(0, 0, 0, 0.842);
+  background-color:rgba(246, 250, 252, 0.979);
+  border-radius: 12px;
+  margin: 5px;
+  padding: 5px 50px;
+}
+
+.render{
+  color:rgb(66, 162, 179);
+}
+
+
